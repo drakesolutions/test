@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack --mode development",
+    "buildw": "npx webpack --mode development -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it-drake/test.git"
+  },
+  "author": "Ivan Turcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it-drake/test/issues"
+  },
+  "homepage": "https://github.com/it-drake/test#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
