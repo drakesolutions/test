@@ -1,1 +1,1 @@
-console.info ("only test");
+console.info ("test");
