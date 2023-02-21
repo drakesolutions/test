@@ -1,6 +1,6 @@
 {
   "name": "it-drake-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "testing repo",
   "main": "index.js",
   "scripts": {
